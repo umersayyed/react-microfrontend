@@ -19,7 +19,8 @@ cd host
 npm install
 npm start
 ```
-## Do same step mentioned above for remote module.
+*Do same step mentioned above for remote module.*
+
 
 
 Then navigate to:
