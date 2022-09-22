@@ -4,13 +4,22 @@ Example of using React in host-remote micro-frontend pattern with Webpack Module
 
 ## How to use
 
-Run the following commands in the root directory.
+If you are using yarn then run the following commands in the root directory.
 
 ```bash
 yarn
 yarn start
 ```
 
+If you are using npm then run the following commands.
+Go to the respective directory 
+below is the example for host module
+```bash
+cd host
+npm install
+npm start
+```
+Do same step mentioned above for remote module.
 Navigate to:
 
 - `http://localhost:3000` for the host app
