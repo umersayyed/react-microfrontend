@@ -19,8 +19,10 @@ cd host
 npm install
 npm start
 ```
-Do same step mentioned above for remote module.
-Navigate to:
+## Do same step mentioned above for remote module.
+
+
+Then navigate to:
 
 - `http://localhost:3000` for the host app
 - `http://localhost:4000` for the remote app
