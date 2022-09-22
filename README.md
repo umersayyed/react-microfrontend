@@ -25,7 +25,7 @@ npm start
 
 Then navigate to:
 
-- `http://localhost:3000` for the host app
+- `http://localhost:3001` for the host app
 - `http://localhost:4000` for the remote app
 
 ## Host App
